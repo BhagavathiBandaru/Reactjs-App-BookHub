@@ -1,0 +1,31 @@
+.fav-books-section {
+  padding: 10px;
+  background-color: rgb(237, 237, 242);
+}
+.no-fav-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.book-heading {
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.btn-style {
+  border: none;
+  border-radius: 5px;
+  background-color: rgba(12, 53, 238, 0.781);
+  color: white;
+  font-family: roboto;
+  height: 30px;
+  width: 120px;
+}
+.fav-books-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 50px;
+}

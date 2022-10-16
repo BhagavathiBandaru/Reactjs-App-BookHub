@@ -1,0 +1,36 @@
+.contact-icons-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background-color: black;
+  align-items: center;
+}
+.contact-icon {
+  margin-right: 25px;
+  color: #ffffff;
+}
+.contact-heading {
+  font-family: inter;
+  font-size: 20px;
+  color: #ffffff;
+  font-weight: bold;
+  align-self: center;
+  justify-content: center;
+}
+
+.icon-container {
+  display: flex;
+  flex-direction: row;
+}
+.icon {
+  height: 35px;
+  width: 35px;
+  background-color: #fee715ff;
+  background-color: #0cfadf;
+  margin: 10px;
+  align-self: center;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-radius: 8px;
+}
